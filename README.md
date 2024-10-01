@@ -2,9 +2,9 @@
 
 Welcome to our hands-on workshop, we are excited to have you join us for an engaging and informative session where you'll learn how to integrate Open Policy Agent (OPA) with GitHub Actions to enforce policy-as-code using Terraform as an example..
 
-As organizations increasingly adopt Infrastructure as Code (IaC) practices, ensuring that infrastructure configurations are compliant with security and governance policies becomes crucial. Open Policy Agent (OPA) is a powerful, open-source policy engine that allows you to define and enforce policies across your infrastructure. 
+As organizations increasingly adopt Infrastructure as Code (IaC) practices, ensuring that infrastructure configurations are compliant with security and governance policies becomes crucial. Open Policy Agent (OPA) is a powerful, open-source policy engine that allows you to define and enforce policies across your infrastructure..
 
-During this workshop we will complete the [Setup](#setup), [Working with code locally](#working-with-code-locally), [Review the Pipeline](#review-the-pipeline), [Review an OPA Policy](#review-an-opa-policy) and [Exercise 1](#exercise-1---github-actions-and-a-failing-pipeline) as a group. The remainder will be done independently.
+During this workshop we will complete the [Setup](#setup), [Working with code locally](#working-with-code-locally), [Review the Pipeline](#review-the-pipeline), [Review an OPA Policy](#review-an-opa-policy) and [Exercise 1](#exercise-1---github-actions-and-a-failing-pipeline) as a group. The remainder will be done independently..
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
